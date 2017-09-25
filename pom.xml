@@ -35,9 +35,9 @@
     <url>http://wso2.org</url>
 
     <scm>
-        <url>https://github.com/wso2/product-sp.git</url>
-        <developerConnection>scm:git:https://github.com/wso2/product-sp.git</developerConnection>
-        <connection>scm:git:https://github.com/wso2/product-sp.git</connection>
+        <url>https://github.com/ChathurikaA/product-sp.git</url>
+        <developerConnection>scm:git:https://github.com/ChathurikaA/product-sp.git</developerConnection>
+        <connection>scm:git:https://github.com/ChathurikaA/product-sp.git</connection>
         <tag>HEAD</tag>
     </scm>
 
@@ -690,6 +690,8 @@
     </build>
 
     <properties>
+
+        <gpg.skip>true</gpg.skip>
         <carbon.analytics.version>2.0.80</carbon.analytics.version>
         <siddhi.version>4.0.0-M78</siddhi.version>
 
