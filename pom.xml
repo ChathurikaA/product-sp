@@ -38,7 +38,7 @@
         <url>https://github.com/ChathurikaA/product-sp.git</url>
         <developerConnection>scm:git:https://github.com/ChathurikaA/product-sp.git</developerConnection>
         <connection>scm:git:https://github.com/ChathurikaA/product-sp.git</connection>
-        <tag>org.wso2.carbon.sp.parent-4.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencyManagement>
